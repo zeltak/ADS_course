@@ -1,0 +1,13 @@
+---
+title: "first_doc"
+format: html
+editor: visual
+---
+
+## First markdown document 
+
+Let's create a test plot
+```{r}
+plot (cars)
+```
+
